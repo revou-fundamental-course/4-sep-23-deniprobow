@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header{
+       border : 1px solid #bbb;
+}
+
+.content{
+    border : 1px solid #bbb;
+}
+
+.box{
+    border : 1px solid #60A5FA;
+}
+
+.bold{
+    font-weight: bold;
+}
